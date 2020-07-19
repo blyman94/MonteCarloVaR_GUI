@@ -1,4 +1,4 @@
-# MonteCarloVaR_GUI
+# Simple Monte Carlo Value-at-Risk Calculation
 Python implementation of Monte Carlo Value-at-Risk calculation for a single stock with PyQt5 GUI. 
 This application allows the user to select the many parameters to calculate a simple Value-at-Risk
 estimate of a single stock using Geometric Brownian Motion and Monte Carlo simulation. Parameters include:
