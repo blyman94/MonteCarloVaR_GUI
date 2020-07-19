@@ -1,0 +1,11 @@
+Value-at-Risk has been calculated for %s with the following parameters:<br> 
+<pre>    Historical Window</pre>
+<pre>        Start: %s</pre>
+<pre>        End: %s</pre>
+<pre>    Prediction Window</pre>
+<pre>        Start: %s</pre>
+<pre>        End: %s</pre>
+<pre>    Trials: %d</pre>
+<pre>    VaR Confidence Level: %d Percent </pre> 
+<pre>__________________________________________</pre>
+<pre>    Value-At-Risk: %f</pre>
